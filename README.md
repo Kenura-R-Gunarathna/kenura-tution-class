@@ -1,1 +1,3 @@
-# kenura-tution-class
+# Tusion Class Notes
+
+My tution class notes on mathematics, science and ict.
